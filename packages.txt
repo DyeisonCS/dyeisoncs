@@ -1,4 +1,4 @@
 unixodbc-dev
--accept-eula=y
+/opt/mssql/bin/mssql-conf
 msodbcsql18
 mssql-tools18
