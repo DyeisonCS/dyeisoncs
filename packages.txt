@@ -1,2 +1,2 @@
 msodbcsql18
-mssql-tools18-yes
+mssql-tools18 --yes
