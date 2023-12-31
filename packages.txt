@@ -1,2 +1,3 @@
-msodbcsql18 --accept-eula
-mssql-tools18 --accept-eula
+"ACCEPT_EULA=Y"
+msodbcsql18
+mssql-tools18
