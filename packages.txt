@@ -1,3 +1,2 @@
 msodbcsql18
 mssql-tools18
-ACCEPT_EULA=Y
