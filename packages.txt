@@ -1,0 +1,4 @@
+unixodbc-dev
+ACCEPT_EULA=Y
+msodbcsql18
+mssql-tools18
