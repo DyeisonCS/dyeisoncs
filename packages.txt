@@ -1,3 +1,2 @@
 msodbcsql18
-mssql-tools18
-'Yes' -y
+mssql-tools18=Y
