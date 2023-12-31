@@ -1,4 +1,2 @@
-unixodbc-dev
-/opt/mssql/bin/mssql-conf
-msodbcsql18
-mssql-tools18
+msodbcsql
+mssql-tools
