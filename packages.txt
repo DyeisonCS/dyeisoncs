@@ -1,3 +1,2 @@
-msodbcsql18
-mssql-tools18
---assume-yes
+msodbcsql18/accepteula
+mssql-tools18/accepteula
