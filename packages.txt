@@ -1,2 +1,1 @@
-mssql-tools18
-accept_eula=y
+mssql-tools17
