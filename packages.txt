@@ -1,1 +1,2 @@
-mssql-tools18/ACCEPT_EULA
+sudo ACCEPT_EULA=Y
+mssql-tools18
