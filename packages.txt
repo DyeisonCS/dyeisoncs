@@ -1,2 +1,3 @@
-msodbcsql
-mssql-tools
+IACCEPTMSODBCSQLLICENSETERMS=YES
+msodbcsql18
+mssql-tools18
