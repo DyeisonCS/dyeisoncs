@@ -1,3 +1,2 @@
 unixodbc-dev
-sudo ACCEPT_EULA=Y
 mssql-tools18
