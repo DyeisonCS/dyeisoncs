@@ -1,2 +1,2 @@
-msodbcsql18
-mssql-tools18 --yes
+msodbcsql18/ACCEPT_EULA boolean true
+mssql-tools18/ACCEPT_EULA boolean true
