@@ -1,2 +1,2 @@
-msodbcsql18/ACCEPT_EULA boolean true
-mssql-tools18/ACCEPT_EULA boolean true
+echo "mssql-tools18 mssql-tools18/ACCEPT_EULA boolean true" | debconf-set-selections
+mssql-tools18
